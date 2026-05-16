@@ -109,7 +109,7 @@ var duru = new Developer
 
 <!-- TAM BOY KARAKTER -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/rengoku-full.png" width="280" alt="rengoku full" />
+<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/Rengoku-full.png" width="280" alt="rengoku full" />
 </div>
 
 ---
