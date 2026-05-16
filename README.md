@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- 1. BÖLÜM — BANNER -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/banner.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/banner.gif" width="100%" alt="banner" />
 </div>
 
 <br>
@@ -67,7 +67,7 @@ var duru = new Developer
 
 </td>
 <td width="35%" align="right" valign="bottom">
-<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/rengoku-full.png" width="220" alt="rengoku full" />
+<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/Rengoku-full.png" width="220" alt="rengoku full" />
 </td>
 </tr>
 </table>
