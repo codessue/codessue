@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/banner.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/banner.gif" width="100%" alt="banner" />
 
 </div>
 
