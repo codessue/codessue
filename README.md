@@ -57,16 +57,16 @@ var duru = new Developer
 
 ## 🛠 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="35%" align="left" valign="bottom">
+<td width="35%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/codessue/codessue/main/assets/Rengoku-full.png" width="220" alt="rengoku full" />
 </td>
 </tr>
@@ -99,16 +99,13 @@ var duru = new Developer
 |---------|------|-------------|
 | 🐾 **Pati** | ASP.NET Core · React Native · PostgreSQL | Pet health tracker for TR market |
 | 📝 **ClarityNote** | React Native · Expo · Skia | iPad & Android note-taking app |
-| ⚖️ **Aselneva Hukuk** | ASP.NET Core · React · TypeScript | Full-stack legal website |
+| ⚖️ **Aselne Hukuk** | ASP.NET Core · React · TypeScript | Full-stack legal website |
 
 <br>
 
 ## 📊 GitHub Stats
 
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=codessue&theme=radical&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=codessue&theme=radical&hide_border=true" width="70%" />
 
 </td>
 </tr>
@@ -129,7 +126,14 @@ var duru = new Developer
 
 <br><br>
 
-## 🙏 Thank you for visiting!
+<h2>🙏 Thank you for visiting!</h2>
+
+</div>
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
